@@ -1,3 +1,7 @@
+### TODO
+* linter available for Make* and Makefile.* as well
+* change grammer/makefile.cson file?
+
 # Make language support in Atom
 [![macOS Build Status](https://travis-ci.org/atom/language-make.svg?branch=master)](https://travis-ci.org/atom/language-make)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/vq1aascey21wxjh7/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/language-make/branch/master)
